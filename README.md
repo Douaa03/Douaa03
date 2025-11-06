@@ -18,21 +18,10 @@ I’m a final-year Network & Telecommunications Engineering student, specializin
 
 ---
 
-## Skills  
-<p align="center">  
-  <a href="https://skillicons.dev" target="_blank">  
-    <img src="https://skillicons.dev/icons?i=c,java,python,bash,powershell,network,wireshark,nmap,burpsuite,wazuh,suricata,windows,linux,debian,mysql,vmware&theme=light" alt="My Skills" />  
-  </a>  
-</p>  
-**Languages & Scripting**: C · Java · Python · Bash · PowerShell  
-<br>  
-**Networks & Infrastructure**: LAN/WAN · VLAN · TCP/IP · EIGRP · OSPF · RIP · STP · ACLs · DNS · DHCP · NAT/PAT · VPN · MPLS · HTTP/HTTPS · FTP · SNMP · Syslog · Wireshark · Active Directory  
-<br>  
+## Technical skills  
+- **Languages & Scripting**: C · Java · Python · Bash · PowerShell  
+- **Networks & Infrastructure**: LAN/WAN · VLAN · TCP/IP · EIGRP · OSPF · RIP · STP · ACLs · DNS · DHCP · NAT/PAT · VPN · MPLS · HTTP/HTTPS · FTP · SNMP · Syslog · Wireshark · Active Directory · Cloud
 **Cybersecurity**: Nmap · Burp Suite · Wireshark · Wazuh/ELK · Suricata · SOAR · Threat Analysis  · Splunk
-<br>  
-**Operating Systems**: Windows · Windows Server · Linux  
-<br>  
-**Tools & Environments**: MySQL · Cisco Packet Tracer · EMU 8086 · OptiSystem · VMware · VirtualBox  
 
 
 ---
