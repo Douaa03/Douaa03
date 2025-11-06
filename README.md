@@ -25,5 +25,5 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 
 
 ## Stats
-![Douaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douaa03&show_icons=true&theme=onedark)
+![Douaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douaa03&show_icons=true&theme=tokyonight)
   
