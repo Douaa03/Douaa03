@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Welcome to my Github Account, I'm Douaa Hammouchi
+# 👋 I'm Douaa Hammouchi
 
 💻 **`Network & Cybersecurity Engineer | CCNA Certified `**  
 <br><br>
@@ -12,20 +12,28 @@ I’m a final-year Network & Telecommunications Engineering student, specializin
 ---
 
 ## 🎯 My Focus  
-- **Networking**: Designing, configuring, and managing LAN/WLAN solutions; working with routing, switching, IPv4/IPv6, and network segmentation.  
-- **Cybersecurity**: Implementing and operating SOC Level 1 capabilities, performing ARP spoofing detection and mitigation, endpoint monitoring, vulnerability assessments, and incident response.  
-- **Projects**: Balancing network-centric work with advanced security use-cases — whether it’s a secure WiFi design or a real-time threat detection system, I aim for both breadth and depth.
+- **Network & Infrastructure**: Designing, building and securing LAN/WLAN environments using switching, routing, segmentation, firewalls and VPNs.  
+- **Cybersecurity & Threat Defence**: Developing SOC L1 capabilities, creating detection / response workflows, implementing endpoint and network monitoring, threat hunting and mitigation.  
+- **Professional Growth & Collaboration**: Final-year engineering student actively seeking a PFE internship to apply my skills in real-world environments, collaborate with teams and deliver meaningful security & network projects.  
 
 ---
 
 ## Skills  
 <p align="center">  
   <a href="https://skillicons.dev" target="_blank">  
-    <img src="https://skillicons.dev/icons?i=linux,python,ccna,docker,kubernetes,wazuh,wireshark&theme=light" alt="My Skills" />  
+    <img src="https://skillicons.dev/icons?i=c,java,python,bash,powershell,network,wireshark,nmap,burpsuite,wazuh,suricata,windows,linux,debian,mysql,vmware&theme=light" alt="My Skills" />  
   </a>  
 </p>  
-*Linux · Python · CCNA · Docker · Kubernetes · Wazuh · Wireshark · Ansible · Git · Azure*  
-_(Icons courtesy of the [skill-icons](https://github.com/tandpfun/skill-icons) collection.)_ :contentReference[oaicite:1]{index=1}
+**Languages & Scripting**: C · Java · Python · Bash · PowerShell  
+<br>  
+**Networks & Infrastructure**: LAN/WAN · VLAN · TCP/IP · EIGRP · OSPF · RIP · STP · ACLs · DNS · DHCP · NAT/PAT · VPN · MPLS · HTTP/HTTPS · FTP · SNMP · Syslog · Wireshark · Active Directory  
+<br>  
+**Cybersecurity**: Nmap · Burp Suite · Wireshark · Wazuh/ELK · Suricata · SOAR · Threat Analysis  · Splunk
+<br>  
+**Operating Systems**: Windows · Windows Server · Linux  
+<br>  
+**Tools & Environments**: MySQL · Cisco Packet Tracer · EMU 8086 · OptiSystem · VMware · VirtualBox  
+
 
 ---
 
